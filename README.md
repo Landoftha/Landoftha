@@ -5,7 +5,7 @@
 [![Portfolio](https://img.shields.io/badge/Portf%C3%B3lio_Web-thays--portfolio--six.vercel.app-9333EA?style=for-the-badge&logo=vercel&logoColor=white)](https://thays-portfolio-six.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Thays_Yohana-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thays-yohana-46260527a/)
 [![GitLab](https://img.shields.io/badge/GitLab-Landoftha-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Landoftha)
-[![Email](https://img.shields.io/badge/Email-thaysyohana8%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thaysyohana8@gmail.com)
+[![Email](https://img.shields.io/badge/Email-thaysyohanacosta71@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thaysyohana8@gmail.com)
 
 ---
 
@@ -55,4 +55,4 @@ Profissional com atuação na interseção entre **Desenvolvimento de Software F
 
 - **Portfólio:** [thays-portfolio-six.vercel.app](https://thays-portfolio-six.vercel.app)
 - **LinkedIn:** [linkedin.com/in/thays-yohana-46260527a](https://www.linkedin.com/in/thays-yohana-46260527a/)
-- **E-mail:** [thaysyohana8@gmail.com](mailto:thaysyohana8@gmail.com)
+- **E-mail:** [thaysyohana8@gmail.com](mailto:thaysyohanacosta71@gmail.com)
