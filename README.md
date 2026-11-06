@@ -54,5 +54,5 @@ Profissional com atuação na interseção entre **Desenvolvimento de Software F
 ### Contato
 
 - **Portfólio:** [thays-portfolio-six.vercel.app](https://thays-portfolio-six.vercel.app)
-- **LinkedIn:** [linkedin.com/in/thays-yohana](https://www.linkedin.com/in/thays-yohana-46260527a/)
+- **LinkedIn:** [linkedin.com/in/thays-yohana](https://www.linkedin.com/in/thays-yohana)
 - **E-mail:** [thaysyohanacosta71@gmail.com](mailto:thaysyohanacosta71@gmail.com)
